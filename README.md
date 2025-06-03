@@ -3,7 +3,7 @@
 Repositório criado para documentar minha jornada de aprendizado em desenvolvimento de jogos usando **Roblox Studio** e a linguagem **Lua**.
 
 > 👤 Por: Kauzz  
-> 📅 Início: 03 de Junho de 2025
+> 📅 Início: Junho de 2025
 
 ---
 
@@ -16,3 +16,10 @@ Repositório criado para documentar minha jornada de aprendizado em desenvolvime
 
 ---
 
+## 📁 Estrutura Planejada do Repositório(roblox-learning)
+
+📁 basics/ → Conceitos e scripts básicos em Lua
+📁 systems/ → Sistemas de jogo (inventário, pontuação, loja, etc.)
+📁 ui/ → Interfaces gráficas personalizadas
+📁 projects/ → Miniprojetos e jogos completos
+📄 README.md → Você está aqui!
