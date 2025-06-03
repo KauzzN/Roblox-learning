@@ -23,3 +23,26 @@ Repositório criado para documentar minha jornada de aprendizado em desenvolvime
 📁 ui/ → Interfaces gráficas personalizadas
 📁 projects/ → Miniprojetos e jogos completos
 📄 README.md → Você está aqui!
+
+---
+
+## 🛠 Ferramentas Utilizadas
+
+- [Roblox Studio](https://create.roblox.com/)
+- Linguagem Lua
+
+---
+
+## 📚 Recursos de Estudo
+
+- [Documentação Oficial do Roblox](https://create.roblox.com/docs)
+- [https://web.dio.me/track/formacao-lua-developer]
+- [https://www.youtube.com/@worbx]
+
+---
+
+## 📌 Observações
+
+Este repositório é voltado para fins educacionais e para acompanhar minha evolução no desenvolvimento de jogos. Fique à vontade para acompanhar ou usar como inspiração nos seus próprios estudos.
+
+---
